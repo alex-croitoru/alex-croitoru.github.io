@@ -1,0 +1,15 @@
+@keyframes jump {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.vfrc-launcher {
+    animation: jump 0.5s infinite alternate !important;
+}
