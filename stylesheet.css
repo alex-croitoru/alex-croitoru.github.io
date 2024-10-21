@@ -17,3 +17,7 @@
 .vfrc-proactive {
     animation: jump 0.5s infinite alternate !important;
 }
+
+.vfrc-proactive-message {
+    background-color: rgb(188, 163, 163);
+}
