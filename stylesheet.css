@@ -13,3 +13,7 @@
 .vfrc-launcher {
     animation: jump 0.5s infinite alternate !important;
 }
+
+.vfrc-proactive-message {
+    animation: jump 0.5s infinite alternate !important;
+}
